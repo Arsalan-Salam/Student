@@ -6,8 +6,7 @@ package student;
 
 /**
  * hello there
- * 
- * second
+ * added comment for Pull
  * @author arsal
  */
 import java.util.Scanner;
